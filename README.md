@@ -1,1 +1,1 @@
-BANKING PROJECT IN PYTHON LANGUAGE 
+This project consists of python and mySQL
